@@ -1,0 +1,39 @@
+# .NET Core
+bin/
+obj/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Mac
+*.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Build directories
+build/
+dist/
