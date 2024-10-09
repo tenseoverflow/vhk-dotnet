@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        public static float calculate(int number1, string calc, int number2)
+        public static float Calculate(int number1, string calc, int number2)
         {
             switch (calc)
             {
@@ -87,7 +87,7 @@
 
             try
             {
-                Console.WriteLine("Vastus: " + calculate(number1, calc, number2));
+                Console.WriteLine("Vastus: " + Calculate(number1, calc, number2));
             }
             catch (DivideByZeroException)
             {
