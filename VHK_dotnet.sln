@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kalkulaator", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "onju-nii", "onju-nii\onju-nii.csproj", "{1ED16A35-BB52-48C8-888B-D2BA19E71E5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2024_10_10_Lesson", "2024_10_10_Lesson\2024_10_10_Lesson.csproj", "{292AEAF9-8B6A-4DDF-A27C-30233BC559FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1ED16A35-BB52-48C8-888B-D2BA19E71E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ED16A35-BB52-48C8-888B-D2BA19E71E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ED16A35-BB52-48C8-888B-D2BA19E71E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{292AEAF9-8B6A-4DDF-A27C-30233BC559FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292AEAF9-8B6A-4DDF-A27C-30233BC559FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292AEAF9-8B6A-4DDF-A27C-30233BC559FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292AEAF9-8B6A-4DDF-A27C-30233BC559FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
