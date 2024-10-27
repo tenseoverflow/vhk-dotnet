@@ -10,7 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "juubilar", "juubilar\juubilar.csproj", "{C192E9C1-6B07-4493-9A89-CB03559FE9B9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pikkus", "pikkus\pikkus.csproj", "{CC1ED1A7-589B-4B46-902C-5205C95214D4}"
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2024_10_10_Lesson", "2024_10_10_Lesson\2024_10_10_Lesson.csproj", "{292AEAF9-8B6A-4DDF-A27C-30233BC559FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kassiAndmed", "kassiAndmed\kassiAndmed.csproj", "{221B2EBF-DE72-45ED-8CEC-33A700AA1C94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,6 +39,10 @@ Global
 		{292AEAF9-8B6A-4DDF-A27C-30233BC559FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{292AEAF9-8B6A-4DDF-A27C-30233BC559FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{292AEAF9-8B6A-4DDF-A27C-30233BC559FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221B2EBF-DE72-45ED-8CEC-33A700AA1C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221B2EBF-DE72-45ED-8CEC-33A700AA1C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221B2EBF-DE72-45ED-8CEC-33A700AA1C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221B2EBF-DE72-45ED-8CEC-33A700AA1C94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
