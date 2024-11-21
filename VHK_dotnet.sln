@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kassiAndmed", "kassiAndmed\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veejoomine", "veejoomine\veejoomine.csproj", "{7F9F7F44-B565-4F36-BD8D-C1DFAF431848}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsUp", "WhatsUp\WhatsUp.csproj", "{94EDA8B9-7D64-41CA-BF5B-7F3211879820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameRelease", "GameRelease\GameRelease.csproj", "{D5B60D03-5C7E-48F8-87C9-5F7E76192960}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +53,14 @@ Global
 		{7F9F7F44-B565-4F36-BD8D-C1DFAF431848}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F9F7F44-B565-4F36-BD8D-C1DFAF431848}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F9F7F44-B565-4F36-BD8D-C1DFAF431848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94EDA8B9-7D64-41CA-BF5B-7F3211879820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94EDA8B9-7D64-41CA-BF5B-7F3211879820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94EDA8B9-7D64-41CA-BF5B-7F3211879820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94EDA8B9-7D64-41CA-BF5B-7F3211879820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B60D03-5C7E-48F8-87C9-5F7E76192960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B60D03-5C7E-48F8-87C9-5F7E76192960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B60D03-5C7E-48F8-87C9-5F7E76192960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B60D03-5C7E-48F8-87C9-5F7E76192960}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
