@@ -1,7 +1,3 @@
-﻿using System;
-
-/*Siia võib koodi kirjutada*/
-
 namespace WhatsUp
 
 {
@@ -17,7 +13,7 @@ namespace WhatsUp
             Console.WriteLine("Tere! Mis teed ?");
 
             /*Siia võib koodi kirjutada*/
-            string input = Console.ReadLine();
+            string input = Console.ReadLine() ?? string.Empty;
 
             switch (input)
             {
